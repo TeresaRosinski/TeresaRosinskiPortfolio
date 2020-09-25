@@ -1,0 +1,16 @@
+.resumeButton {
+  color: white;
+  background-color: #ffc801;
+  border: none;
+  font-size: 1.2rem;
+  border-radius: 4px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Gothic {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.charcoal {
+  color: #36454f
+}
